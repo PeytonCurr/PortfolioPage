@@ -293,7 +293,7 @@ var option_hero_background_sphere_line_color = "#666";
 
 
 // SPHERE DOT COLOR
-var option_hero_background_sphere_dot_color = "#666";
+var option_hero_background_sphere_dot_color = "#ff0707";
 
 
 
