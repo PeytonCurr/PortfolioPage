@@ -283,6 +283,16 @@ form.success .icon-button {
   transform: translate(-50%, -50%);
   background-position: center;
   background-size: cover;
+
+  background: hsla(0, 77%, 58%, 1);
+
+  background: linear-gradient(50deg, hsla(0, 77%, 58%, 1) 0%, hsla(0, 80%, 85%, 1) 100%);
+
+  background: -moz-linear-gradient(50deg, hsla(0, 77%, 58%, 1) 0%, hsla(0, 80%, 85%, 1) 100%);
+
+  background: -webkit-linear-gradient(50deg, hsla(0, 77%, 58%, 1) 0%, hsla(0, 80%, 85%, 1) 100%);
+
+  filter: progid: DXImageTransform.Microsoft.gradient(startColorstr="#E64343", endColorstr="#F7B8B8", GradientType=1);
 }
 
 @media (max-width: 500px) {
